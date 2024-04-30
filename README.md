@@ -38,7 +38,7 @@ https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implemen
 
 ## How to build
 
-Switch to the designated branch based on the AEM version. For instance, checkout the "aem650" branch for AEM 6.5.
+Switch to the designated branch based on the AEM version. For instance, checkout the "aem650" branch for AEM 6.5 and for AEM as a Cloud Service, opt for the "master" branch. 
 
 To build all the modules run in the project root directory the following command with Maven 3:
 
